@@ -1,7 +1,7 @@
 # **เนื้อหาสรุป** :sweat_smile:
 ## Terminal Run Code
-> Compile : gcc <File>.c -o <File>
-> Run : ./<File>
+- Compile : gcc <File>.c -o <File>
+- Run : ./<File>
 
 ## Variable(VA)
 
