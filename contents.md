@@ -14,8 +14,8 @@
 
 
 ## Operator
-> Ralational : > >= < <= == !=
-> Logical : && || !
+- Ralational : > >= < <= == !=
+- Logical : && || !
 
 ## Type
 ```
